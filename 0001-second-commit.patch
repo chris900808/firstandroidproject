@@ -1,0 +1,32 @@
+From 50184af58d9db14c8b6b4b95f940c44ff42b4c68 Mon Sep 17 00:00:00 2001
+From: chris900808 <chris900808@126.com>
+Date: Mon, 22 Aug 2016 22:10:29 +0800
+Subject: [PATCH] second commit
+
+---
+ README.md                 | 3 ++-
+ firstandroidproject/m.txt | 1 +
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+ create mode 100644 firstandroidproject/m.txt
+
+diff --git a/README.md b/README.md
+index c09b1a4..a3481f7 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,2 @@
+-# firstandroidproject
+\ No newline at end of file
++# firstandroidproject
++# git
+\ No newline at end of file
+diff --git a/firstandroidproject/m.txt b/firstandroidproject/m.txt
+new file mode 100644
+index 0000000..3e42cc2
+--- /dev/null
++++ b/firstandroidproject/m.txt
+@@ -0,0 +1 @@
++mmm
+\ No newline at end of file
+-- 
+2.9.3.windows.1
+
